@@ -38,9 +38,9 @@ Ensure you have the following installed locally before running the project:
 ---
 ## 5. Environment Variables
 
-*PORT: The port number on which the Express server listens	ex: 3000
-*DATABASE:	Connection URI string for MongoDB database ex: mongodb://localhost:27017/ecommerce
-*NODE_ENV: Environment mode (development or production)	
+* PORT: The port number on which the Express server listens	ex: 3000
+* DATABASE:	Connection URI string for MongoDB database ex: mongodb://localhost:27017/ecommerce
+* NODE_ENV: Environment mode (development or production)	
 
 
 
