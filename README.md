@@ -27,8 +27,8 @@ Ensure you have the following installed locally before running the project:
 * **npm*
 
 ---
-##4. Installation
-*1.Clone the repository:
+## 4. Installation
+* 1.Clone the repository:
    git clone <https://github.com/ma7mad-hassan/Mohamed-hassan-ecommerce-backend.git>
 * 2.Install project dependencie
 * 3.Configure environment variables
