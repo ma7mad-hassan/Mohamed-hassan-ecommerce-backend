@@ -27,7 +27,21 @@ Ensure you have the following installed locally before running the project:
 * **npm*
 
 ---
-##
+##4. Installation
+*1.Clone the repository:
+   git clone <https://github.com/ma7mad-hassan/Mohamed-hassan-ecommerce-backend.git>
+* 2.Install project dependencie
+* 3.Configure environment variables
+* 4.Seed the database with sample data
+* 5.Start the development server
+
+---
+## 5. Environment Variables
+
+*PORT: The port number on which the Express server listens	ex: 3000
+*DATABASE:	Connection URI string for MongoDB database ex: mongodb://localhost:27017/ecommerce
+*NODE_ENV: Environment mode (development or production)	
 
 
-   
+
+
