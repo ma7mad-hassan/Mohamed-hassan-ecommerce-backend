@@ -24,9 +24,10 @@ A fully functional RESTful API built with Node.js, Express, and MongoDB for mana
 Ensure you have the following installed locally before running the project:
 * **Node.js** (v18.x or higher recommended)
 * **MongoDB** (Local instance or MongoDB Atlas Connection URI)
-* **Postman*
+* **npm*
 
 ---
+##
 
 
    
